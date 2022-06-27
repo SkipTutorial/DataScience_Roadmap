@@ -18,7 +18,8 @@ This is my Data Science learning progress review. Hope it will be useful for tho
         <td>--</td>
     </tr>
 </table>
-## Courses
+Courses
+-------
 <table>
     <tr>
         <th>Author</th>
@@ -35,11 +36,13 @@ This is my Data Science learning progress review. Hope it will be useful for tho
         <td>--</td>
     </tr>
 </table>
-## Certificates
+Certificates
+------------
 <ol>
     <li>--</li>
 </ol>
-## Projects
+Projects
+--------
 <ol>
     <li>--</li>
 </ol>
