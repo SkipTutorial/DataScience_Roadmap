@@ -38,11 +38,13 @@ Courses
         <td>--</td>
     </tr>
 </table>
+
 Certificates
 --------------
 <ol>
     <li>--</li>
 </ol>
+
 Projects
 ----------
 <ol>
