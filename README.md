@@ -19,7 +19,7 @@ Books
         <td>--</td>
     </tr>
 </table>
--------
+
 Courses
 ----------
 <table>
